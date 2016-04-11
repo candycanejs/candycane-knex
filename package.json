@@ -8,7 +8,14 @@
     "build": "ember build",
     "develop": "ember build --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candycanejs/candycane-knex.git"
+  },
   "keywords": [
+    "candycane",
+    "knex",
+    "postgres",
     "API",
     "Babel",
     "ES6"
